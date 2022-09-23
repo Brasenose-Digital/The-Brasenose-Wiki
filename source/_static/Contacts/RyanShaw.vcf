@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+N:Shaw;Ryan;;;
+NICKNAME:Accomodation Manager
+TEL;TYPE=WORK:+44 1865 277878
+EMAIL;TYPE=WORK:accommodation@bnc.ox.ac.uk
+ORG:Brasenose College
+TITLE:
+CATEGORIES:University
+END:VCARD
