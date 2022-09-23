@@ -6,12 +6,12 @@
 The Academic Life Guide
 ==============================================
 
-About this Section.
+About this Section
 ****************************************************************
 
 This section is currently a work-in-progress.
 
-Table of Contents.
+Table of Contents
 ****************************************************************
 
 .. toctree::

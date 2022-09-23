@@ -6,7 +6,7 @@
 Links to Other Resources
 ==============================================
 
-About this Section.
+About this Section
 ********************************
 
 College Map

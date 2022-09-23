@@ -6,12 +6,12 @@
 The Hulme Common Room (HCR)
 ==============================================
 
-About this Section.
+About this Section
 ********************************
 
 This section is currently a work-in-progress.
 
-Table of Contents.
+Table of Contents
 ********************************
 
 .. toctree::
