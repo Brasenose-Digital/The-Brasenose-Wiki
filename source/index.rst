@@ -29,7 +29,7 @@ Contributing to the Wiki
 
 The wiki is open to contributors.
 
-This wiki is open-source and accepts pull-requests via `our GitHub repository. <https://github.com/ToxicPine/The-Brasenose-Wiki>`_
+This wiki is open-source and accepts pull-requests via `our GitHub repository. <https://github.com/Brasenose-Digital/The-Brasenose-Wiki>`_
 
 Table of Contents.
 ********************************
