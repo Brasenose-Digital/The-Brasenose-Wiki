@@ -17,10 +17,12 @@ Crucial information about how business is conducted within Brasenose College is 
 
 The Brasenose Wiki provides current and prospective students of Brasenose College with accurate, up-to-date information on all matters surrounding the college, thereby making life easier for incoming students.
 
-"Ask Brasenose Anything"
+This website is student-run and does not have the explicit approval of Brasenose College. Brasenose College has not verified the information detailed within this Wiki.
+
+"Ask A Fresher Anything"
 ********************************
 
-If you have any questions about Brasenose College that are not answered by this wiki, `you can "Ask Brasenose Anything" via the online form. <https://forms.gle/oWFNoAYV1PT5uRid7>`_
+If you have any questions about Brasenose College that are not answered by this wiki, `you can "Ask A Fresher Anything" via the online form. <https://forms.gle/oWFNoAYV1PT5uRid7>`_
 
 If we like your question, we will add the answer to this wiki.
 
